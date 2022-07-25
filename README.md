@@ -10,3 +10,4 @@ Again I am trying after long time.
 till now build no is 5.
 # no change let do commit and see the result.
 No update.
+# poll SCM and git hook for gitSCM option
